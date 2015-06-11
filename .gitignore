@@ -1,3 +1,8 @@
+# IDE files
+**.sln
+**.csproj
+**.userprefs
+
 # Unity Files
 /3D-Pong/Library/**
 
